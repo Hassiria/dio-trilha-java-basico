@@ -1,0 +1,18 @@
+# Ignorar arquivos compilados
+*.class
+*.jar
+*.war
+
+# Ignorar diretórios de build e compilação
+/out/
+/build/
+/target/
+
+# Ignorar arquivos de configuração de IDE
+.idea/
+*.iml
+*.vscode/
+
+# Ignorar dependências locais (caso use Maven ou Gradle)
+/node_modules/
+/lib/
